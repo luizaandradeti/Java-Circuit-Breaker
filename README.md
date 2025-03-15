@@ -16,5 +16,7 @@ Spring Boot Circuit Breaker
     ````
     Turn of rate
 
-http://localhost:8000/h2-console
-http://localhost:9000/h2-console
+- http://localhost:8000/h2-console
+
+
+- http://localhost:9000/h2-console
