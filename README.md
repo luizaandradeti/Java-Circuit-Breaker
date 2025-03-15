@@ -1,5 +1,4 @@
-# spring-boot-circuit-breaker
-Spring Boot Circuit Breaker
+# Spring Boot Circuit Breaker
 
 ## Start application
 ````
