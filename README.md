@@ -5,7 +5,7 @@
     curl http://localhost:8000/actuator/health/circuitBreakers
     curl http://localhost:8000/api/loans-retry?type=personal
 ```` 
-## Turn of rate
+## Turn off rate
 - mostrar logs no actuator
     http://localhost:8000/actuator/health
 
@@ -13,7 +13,7 @@
     curl http://localhost:8000/actuator/health/circuitBreakers
     curl http://localhost:8000/api/loans-circuit?type=personal
     ````
-    Turn of rate
+## Turn on rate
 
 - http://localhost:8000/h2-console
 
